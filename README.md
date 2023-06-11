@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Debasish Behera (@Deba1597)
 - 👀 I’m interested in Coding and Mathematics  
-- 🌱 I’m currently learning Machine Learning and Advanve Python coding
+- 🌱 I’m currently learning Machine Learning and Advance Python coding
 - 💞️ I’m looking to collaborate on any project related to machine learning.
 - 📫 How to reach me you contact me on linkedIn - here is my linkedIn Id - "https://www.linkedin.com/in/debasish-behera-0b4116154/"
 
